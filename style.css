@@ -1,0 +1,52 @@
+.h {
+    color: red;
+}
+
+#container {
+    width: 400px;
+    height: 200px;
+    background-color: purple;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#side {
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+#innerbox {
+    width: 50px;
+    height: auto;
+    background-color: skyblue;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.flagpiece{
+    width: 100px;
+    height: 200px;
+}
+
+#outside {
+    width: auto;
+    height: auto;
+    border-style: solid;
+    display: inline-block;
+}
+#flag1 {
+    background-color: green;
+    display: inline-block;
+}
+#flag2 {
+    background-color: white;
+    display: inline-block;
+}
+#flag3 {
+    background-color: red;
+    display: inline-block;
+}
